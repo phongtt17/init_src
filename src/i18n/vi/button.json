@@ -1,0 +1,19 @@
+{
+  "detail": "詳細",
+  "to_top": "トップに戻る",
+  "cancel_complete": "取消",
+  "delete": "削除",
+  "download": "ダウンロード",
+  "confirm": "確定",
+  "done": "完了",
+  "edit": "編集",
+  "back": "戻る",
+  "save": "保存",
+  "request": "申請",
+  "procedure_step_done": "作成",
+  "procedure_step_next": "次へ",
+  "procedure_step_prev": "戻る",
+  "procedure_step_request_all": "申請",
+  "basic_cal_create": "作成",
+  "basic_cal_prev": "戻る"
+}
